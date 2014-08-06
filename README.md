@@ -1,3 +1,11 @@
+## Instructions
+Download https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip to working directory and unzip.
+
+Run plot1.r, plot2.r, etc.
+
+Output files will be called plot1.png, plot2.png, etc.
+
+
 ## Introduction
 
 This assignment uses data from
